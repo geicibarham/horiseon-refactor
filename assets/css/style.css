@@ -63,10 +63,6 @@ span.seo {
     }
 
 /*header ends*/
-
-
-
-
 p {
     font-size: 16px;
 }
@@ -94,10 +90,12 @@ padding: 30px;
     background-color: #0072bb;
     color: #ffffff;
     margin-top: 30px;
+    padding:25px;
 }
 
 .especializations img {
     max-height: 200px;
+    margin-right:25px;
 }
 
  h2 {
@@ -169,7 +167,7 @@ align-items: center;
     width: 100%;
 
 }
-footer h2 {
+h4 {
     font-size: 20px;
 }
 
